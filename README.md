@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aronkleinhans
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game development
 - 📫 How to reach me : kleinhans.aron@gmail.com
 
 <!---
